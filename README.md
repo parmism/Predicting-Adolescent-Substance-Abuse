@@ -1,0 +1,7 @@
+# Predicting-Adolescent-Substance-Abuse
+
+This project aims to predict adolescent groups most vulnerable to substance abuse (alcohol, cannabis, narcotics) based on various socioeconomic characteristics such as income, poverty status, family structure, education, and criminal record data. Past researchers in public health economics have not reached consensus about the direction of the relationship between socioeconomic status and substance abuse using the traditional analytical methods, including linear regression models. Nevertheless, theoretical frameworks suggest the possibility for complex relationships between there factors and substance abuse. Therefore, we employed machine learning models, particulalry tree-based methods and ensemble methods for this prediction problem. Identifying the groups that are most at risk can not only inform the development of targeted prevention and intervention programs, but also by identifying the key predictors, we can prioritize intervention and prevention efforts more effectively. 
+
+Our dataset consisted of more than 2000 observations obtained through self reports of adolescents made to the National Longitudinal Survey of Youth in 1970. Our results show contrasting effects of socioeconomic status on the consumption of different drugs, the implications of which are discussed.
+
+You can find our dataset (default.csv) and code and analysis in the jupyter notebook attached.
